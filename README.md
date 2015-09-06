@@ -15,11 +15,11 @@ const int mValvePin = 9;
 const int rinseValvePin = 10;
 ```
 
-## Pumpe
+### Pumpe
 
-## Magnetventil
+### Magnetventil
 
-## Spülventil
+### Spülventil
 
 # Eingänge
 
@@ -36,13 +36,13 @@ const int pressureButtonPin = 4;
 const int startButtonPin = 5;
 ```
 
-## Tank ist leer
+### Tank ist leer
 
-## Tank ist voll
+### Tank ist voll
 
-## Druckschalter
+### Druckschalter
 
-## Startknopf
+### Startknopf
 
 # Zustände
 
@@ -63,12 +63,12 @@ enum Event {
 };
 ```
 
-## Unbeschäftigt
+### Unbeschäftigt
 
-## Vorbereitung Füllen
+### Vorbereitung Füllen
 
-## Auffüllen des Tanks
+### Auffüllen des Tanks
 
-## Nachbereiten des Füllvorgans
+### Nachbereiten des Füllvorgans
 
-## Fehlerzustand
+### Fehlerzustand
